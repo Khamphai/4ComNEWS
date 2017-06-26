@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81500374671",
+    "firebase_url": "https://android-project-29de9.firebaseio.com",
+    "project_id": "android-project-29de9",
+    "storage_bucket": "android-project-29de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81500374671:android:dfca6ac364dcee18",
+        "android_client_info": {
+          "package_name": "khamphai.org.ceitnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81500374671-v17hu7vatc8627leaiqatratjcjskutj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUH-ULAQaFzIF5_8oY_HA-_OrYAVhz7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
